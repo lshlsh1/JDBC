@@ -1,0 +1,72 @@
+http://www.eclipse.org/downloads/
+
+IDE and TOOLS 클릭
+
+Desktop IDEs → DOWNLOADS 클릭
+
+이클립스는 무조건 최신버전을 쓰지는 않도록 한다
+
+Eclipse IDE for Enterprise Java Developers 클릭
+
+Download Links
+Windows 64-bit 클릭
+
+>> Select Another Mirror 클릭
+
+
+Daum Kakao Corp. 클릭
+
+
+
+
+
+
+
+
+
+
+
+
+http://www.apache.org/
+
+스크롤내려서 tomcat 클릭
+
+tomcat8클릭
+
+Core:
+zip (pgp, sha512) 클릭 해서 다운로드
+
+apache-tomcat-8.5.40 압축해제
+
+apache-tomcat-8.5.40 폴더를 c드라이브에 붙여넣기
+
+
+C:\apache-tomcat-8.5.40\lib
+에 ojdbc6.jar 파일 붙여넣기
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext
+
+안에 ojdbc6.jar 파일 붙여넣기
+
+C:\Program Files\Java\jre1.8.0_201\lib\ext
+
+안에 ojdbc6.jar 파일 붙여넣기
+
